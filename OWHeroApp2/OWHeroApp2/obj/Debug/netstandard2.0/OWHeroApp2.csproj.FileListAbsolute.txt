@@ -1,0 +1,12 @@
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\bin\Debug\netstandard2.0\OWHeroApp2.deps.json
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\bin\Debug\netstandard2.0\OWHeroApp2.dll
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\bin\Debug\netstandard2.0\OWHeroApp2.pdb
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\OWHeroApp2.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\OWHeroApp2.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\OWHeroApp2.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\OWHeroApp2.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\OWHeroApp2.dll
+C:\Users\Jeremy\source\repos\OWHeroApp2\OWHeroApp2\OWHeroApp2\obj\Debug\netstandard2.0\OWHeroApp2.pdb

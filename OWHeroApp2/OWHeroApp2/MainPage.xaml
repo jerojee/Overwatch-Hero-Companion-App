@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:OWHeroApp2"
+             x:Class="OWHeroApp2.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        
+       <ListView x:Name="ListOfHeroes" ItemTapped="ListOfHeroes_ItemTapped">
+           
+           <ListView.ItemTemplate>
+               <DataTemplate>
+                    <ImageCell
+                        ImageSource ="{Binding Picture}"
+                        
+                        Text ="{Binding Name}"
+                        TextColor ="Black"
+                        
+                        Detail="{Binding Role}"
+                        DetailColor="Gray"
+                        
+                        CommandParameter ="{Binding Url}"/>
+                       
+                </DataTemplate>
+           </ListView.ItemTemplate>
+       </ListView>
+    </StackLayout>
+
+</ContentPage>
